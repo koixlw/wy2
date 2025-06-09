@@ -254,7 +254,7 @@ npm start
 如有问题或建议，请通过以下方式联系：
 
 - 提交 [Issue](../../issues)
-- 发送邮件至: support@property-management.com
+- 发送邮件至: 2379668489@qq.com
 
 ---
 
